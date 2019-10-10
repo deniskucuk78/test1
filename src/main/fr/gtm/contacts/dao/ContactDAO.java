@@ -1,6 +1,6 @@
 package fr.gtm.contacts.dao;
 
-//test
+//test 2
 
 import java.util.List;
 
